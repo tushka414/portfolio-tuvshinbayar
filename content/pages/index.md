@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-          fontWeight: 700
+          fontWeight: 400
     subtitle: Future Vehicle and Aircraft engineer
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
