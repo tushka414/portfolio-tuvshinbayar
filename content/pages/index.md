@@ -57,7 +57,7 @@ sections:
               - pt-8
               - pl-36
               - pb-8
-              - pr-36
+              - pr-0
             borderRadius: xx-large
             flexDirection: row
             justifyContent: center
