@@ -7,6 +7,9 @@ sections:
       text: 'Hi, I''m Tuvshinbayar Amartuvshin!'
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: justify
     subtitle: Future Vehicle and Aircraft engineer
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
