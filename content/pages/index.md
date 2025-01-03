@@ -47,10 +47,7 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "*   \_Mobile:\_(+36)\_302275225\n\n*   \_Email address:\_<tyvshin7446@gmail.com>\n\n*   \_WhatsApp Messenger:\_+36302275225\_\_Other:\_www\\.linkedin.com/in/tyvshin10\n\n*   \_Instagram:\_[https://www.instagram.com/tyvshin10/](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://www.instagram.com/tyvshin10/)\n\n*   \_Home:\_Egyetem tér 1,\_9026\_Győr,\_Hungary\n\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
