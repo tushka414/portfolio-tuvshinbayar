@@ -63,6 +63,8 @@ sections:
             justifyContent: center
             textAlign: left
             borderWidth: 0
+            margin:
+              - mr-10
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
