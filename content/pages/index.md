@@ -64,7 +64,7 @@ sections:
             textAlign: left
             borderWidth: 0
             margin:
-              - mr-10
+              - mr-96
               - ml-96
         image:
           type: ImageBlock
