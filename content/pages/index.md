@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: justify
+          textAlign: left
     subtitle: Future Vehicle and Aircraft engineer
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
