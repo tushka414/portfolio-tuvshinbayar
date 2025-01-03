@@ -54,9 +54,9 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-36
-              - pb-8
+              - pt-0
+              - pl-0
+              - pb-0
               - pr-0
             borderRadius: xx-large
             flexDirection: row
