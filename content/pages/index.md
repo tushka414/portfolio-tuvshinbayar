@@ -13,16 +13,7 @@ sections:
           fontWeight: 400
     subtitle: Future Vehicle and Aircraft engineer
     text: ''
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/avatar1.svg
       altText: Unblock your team boost your time to production preview
