@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Hi, I''m Tuvshinbayar Amartuvshin!'
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Future Vehicle and Aircraft engineer
     text: >
