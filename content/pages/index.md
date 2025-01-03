@@ -65,6 +65,7 @@ sections:
             borderWidth: 0
             margin:
               - mr-10
+              - ml-96
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
