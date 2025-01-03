@@ -12,16 +12,7 @@ sections:
           textAlign: left
           fontWeight: 400
     subtitle: Future Vehicle and Aircraft engineer
-    text: >+
-      I hold a BSc in Aircraft Maintenance Engineering from Ukraine and am
-      pursuing a second BSc in Vehicle Engineering in Hungary. With hands-on
-      project experience in areas like MATLAB simulations, Arduino systems, and
-      vehicle design, I completed a two-week internship at MIAT Mongolian
-      Airlines, focusing on front gear changes and hydraulic system checks. I’m
-      eager to gain more hands-on experience through internships, applying my
-      skills to real-world engineering challenges. Fluent in English and
-      Russian, I also prioritize a healthy lifestyle and self-improvement.
-
+    text: ''
     actions:
       - label: Get started
         altText: ''
