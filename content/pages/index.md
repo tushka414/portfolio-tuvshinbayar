@@ -36,7 +36,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Contact
       color: text-dark
       styles:
         self:
