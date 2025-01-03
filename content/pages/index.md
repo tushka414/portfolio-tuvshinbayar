@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to my personal portfolio!
+      text: 'Hi, I''m Tuvshinbayar Amartuvshin!'
       color: text-dark
       type: TitleBlock
     subtitle: Future Vehicle and Aircraft engineer
