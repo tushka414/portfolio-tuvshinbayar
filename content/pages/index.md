@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: justify
+          textAlign: left
           fontWeight: 700
     subtitle: Future Vehicle and Aircraft engineer
     text: >
