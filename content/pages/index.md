@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: right
+          textAlign: justify
           textDecoration: line-through
     subtitle: Future Vehicle and Aircraft engineer
     text: >
