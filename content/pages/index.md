@@ -62,7 +62,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-            borderWidth: 8
+            borderWidth: 0
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
